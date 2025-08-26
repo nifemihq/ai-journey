@@ -1,0 +1,7 @@
+BookID,Title,Author,Genre,Price,Stock
+1,Deep Learning,Ian Goodfellow,AI,75,12
+2,Python Crash Course,Eric Matthes,Programming,40,7
+3,Design of Everyday Things,Don Norman,Design,30,5
+4,Clean Code,Robert Martin,Programming,55,10
+5,Artificial Intelligence,Stuart Russell,AI,80,4
+6,Don't Make Me Think,Steve Krug,Design,25,8

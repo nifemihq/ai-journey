@@ -1,0 +1,25 @@
+order_id,customer,city,item,category,unit_price,quantity,order_date,payment_method,delivery_status,rating,coupon_code
+1001,Ada,Lagos,Smartphone X,Electronics,320000,1,2025-08-01,card,delivered,5,WELCOME10
+1002,Tunde,Abuja,Laptop Pro,Electronics,870000,1,2025-08-02,transfer,pending,, 
+1003,Chi,Lagos,Novel: Rivers,Books,8000,3,2025-08-01,card,delivered,4,
+1004,Bisi,Ibadan,T-Shirt,Fashion,6000,2,2025-08-03,cash,delivered,5,SUMMER5
+1005,Sola,PH,Game Console,Games,350000,1,2025-08-03,transfer,delivered,5,
+1006,Dan,Lagos,Organic Rice 10kg,Groceries,18000,2,2025-07-31,card,delivered,4,
+1007,Kemi,Kano,Headphones,Electronics,40000,1,2025-08-04,card,delivered,4,
+1008,Ada,Lagos,Laptop Air,Electronics,650000,1,2025-08-05,transfer,canceled,,
+1009,Musa,Abuja,Cookbook,Books,12000,1,2025-07-29,card,delivered,5,
+1010,Femi,Lagos,Dress,Fashion,25000,2,2025-08-06,cash,delivered,4,
+1011,Bayo,Ibadan,Board Game,Games,18000,3,2025-08-06,card,pending,,
+1012,Chi,PH,Smartwatch,Electronics,120000,1,2025-08-07,transfer,delivered,5,
+1013,Ada,Lagos,Bluetooth Speaker,Electronics,55000,2,2025-08-07,card,delivered,5,WELCOME10
+1014,Tunde,Lagos,Novel: Sky,Books,9000,1,2025-07-30,transfer,delivered,3,
+1015,Sola,Abuja,Jeans,Fashion,18000,2,2025-08-08,cash,delivered,4,
+1016,Kemi,Lagos,Gaming Mouse,Electronics,35000,1,2025-08-08,card,delivered,5,
+1017,Dan,PH,Organic Beans 5kg,Groceries,9000,3,2025-08-09,transfer,pending,,
+1018,Femi,Kano,Laptop Pro,Electronics,880000,1,2025-08-09,transfer,delivered,5,
+1019,Musa,Lagos,Data Cable,Electronics,5000,4,2025-07-28,cash,delivered,4,
+1020,Bisi,Abuja,Smartphone X,Electronics,310000,1,2025-08-02,card,canceled,,
+1021,Ada,Lagos,Cookbook,Books,12000,2,2025-08-10,card,delivered,5,SUMMER5
+1022,Tunde,PH,Dress,Fashion,26000,1,2025-08-10,transfer,delivered,4,
+1023,Chi,Ibadan,Smart TV 55,Electronics,500000,1,2025-07-27,card,delivered,5,
+1024,Sola,Lagos,Headphones,Electronics,42000,2,2025-08-01,card,pending,,
