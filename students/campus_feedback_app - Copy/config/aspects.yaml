@@ -1,0 +1,50 @@
+cafeteria:
+- queue
+- line
+- wait
+- price
+- expensive
+- cheap
+- taste
+- spice
+- portion
+- food
+- caterer
+hostel:
+- clean
+- dirty
+- water
+- power
+- noise
+- security
+- bed
+- bathroom
+- plate
+- bucket
+- soap
+library:
+- quiet
+- seat
+- crowded
+- wifi
+- light
+- staff
+- books
+- shelf
+- story
+- air-conditioner
+- pen
+transport:
+- late
+- delay
+- bus
+- crowd
+- ticket
+- schedule
+it_helpdesk:
+- wifi
+- login
+- password
+- portal
+- slow
+- crash

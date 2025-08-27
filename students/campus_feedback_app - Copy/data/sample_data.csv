@@ -1,0 +1,16 @@
+timestamp,service,comment,rating,location,source,anon_id
+2025-08-20,cafeteria,The food was tasty but the queue was too long,3,Cafeteria A,form,u001
+2025-08-20,cafeteria,Good portions and friendly staff,5,Cafeteria A,form,u002
+2025-08-20,cafeteria,Prices are too high for students,2,Cafeteria B,form,u003
+2025-08-21,hostel,My room was clean and quiet,5,Block C,form,u004
+2025-08-21,hostel,Bathrooms were dirty this morning,1,Block B,form,u005
+2025-08-21,hostel,The generator worked but it was very noisy,3,Block D,form,u006
+2025-08-22,library,The library is quiet and well lit,5,Main Library,form,u007
+2025-08-22,library,No seats were available at noon,2,Main Library,form,u008
+2025-08-22,library,Wi-Fi keeps disconnecting during study sessions,2,Main Library,form,u009
+2025-08-23,transport,The shuttle arrived on time today,4,Main Gate,form,u010
+2025-08-23,transport,Bus was late again,1,Main Gate,form,u011
+2025-08-23,transport,The bus was too crowded and uncomfortable,2,Main Gate,form,u012
+2025-08-24,it_helpdesk,The IT team solved my login issue quickly,5,Lab 1,form,u013
+2025-08-24,it_helpdesk,Portal crashed during registration,1,Admin Block,form,u014
+2025-08-24,it_helpdesk,Wi-Fi is slow in the evening,2,Lab 2,form,u015
